@@ -1,11 +1,11 @@
 #[allow(dead_code)]
 mod day1;
-
+#[allow(dead_code)]
 mod day2;
 
-mod past_days {}
+mod day3;
 
 fn main() {
-    day2::a();
-    day2::b();
+    day3::a();
+    day3::b();
 }
